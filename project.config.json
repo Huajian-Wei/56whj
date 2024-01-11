@@ -1,10 +1,13 @@
 {
   "compileType": "miniprogram",
+<<<<<<< HEAD
+=======
   "libVersion": "3.2.4",
   "packOptions": {
     "ignore": [],
     "include": []
   },
+>>>>>>> f26fc442366d96cd529a97b891340964f3a93293
   "setting": {
     "coverView": true,
     "es6": true,
@@ -24,5 +27,13 @@
   "editorSetting": {
     "tabIndent": "insertSpaces",
     "tabSize": 2
+<<<<<<< HEAD
+  },
+  "libVersion": "3.2.4",
+  "packOptions": {
+    "ignore": [],
+    "include": []
+=======
+>>>>>>> f26fc442366d96cd529a97b891340964f3a93293
   }
 }
